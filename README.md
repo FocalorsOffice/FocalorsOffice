@@ -17,12 +17,13 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      | 项目 | 描述 | 链接 |
-      |------|------|------|
-      | **封禁规则合集** | 整理的各类平台封禁规则/避坑指南，持续更新中 | [🔗 查看 Gist](https://gist.github.com/FocalorsOffice/2a1942a6bb1ecbec36d88e2ec9cd574f) |
+    <td width="60%" valign="top">
+      <table>
+        <tr><th>项目</th><th>描述</th><th>链接</th></tr>
+        <tr><td><strong>封禁规则合集</strong></td><td>整理的各类平台封禁规则/避坑指南，持续更新中</td><td><a href="https://gist.github.com/FocalorsOffice/2a1942a6bb1ecbec36d88e2ec9cd574f">🔗 查看 Gist</a></td></tr>
+      </table>
     </td>
-    <td width="35%" valign="top" align="center">
+    <td width="40%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/FocalorsOffice/-/main/%E5%99%A2%E9%B2%B8%E9%B2%B8.jpg" alt="墨鱼鱼" width="280" />
     </td>
   </tr>
