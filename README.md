@@ -15,11 +15,18 @@
 
 ### 📌 精选项目
 
-| 项目 | 描述 | 链接 |
-|------|------|------|
-| **封禁规则合集** | 整理的各类平台封禁规则/避坑指南，持续更新中 | [🔗 查看 Gist](https://gist.github.com/FocalorsOffice/2a1942a6bb1ecbec36d88e2ec9cd574f) |
-
----
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      | 项目 | 描述 | 链接 |
+      |------|------|------|
+      | **封禁规则合集** | 整理的各类平台封禁规则/避坑指南，持续更新中 | [🔗 查看 Gist](https://gist.github.com/FocalorsOffice/2a1942a6bb1ecbec36d88e2ec9cd574f) |
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/FocalorsOffice/-/main/%E5%99%A2%E9%B2%B8%E9%B2%B8.jpg" alt="墨鱼鱼" width="200" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 找到我
 
@@ -33,4 +40,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FocalorsOffice&style=flat-square&color=5865F2&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>🐟 本页面由 Focalors 养的大肥鱼制作</sub>
 </p>
