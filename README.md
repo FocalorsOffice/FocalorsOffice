@@ -20,7 +20,7 @@
     <td width="60%" valign="top">
       <table>
         <tr><th>项目</th><th>描述</th><th>链接</th></tr>
-        <tr><td><strong>封禁规则合集</strong></td><td>整理的X完整封禁规则/避坑指南，持续更新中</td><td><a href="https://gist.github.com/FocalorsOffice/2a1942a6bb1ecbec36d88e2ec9cd574f">🔗 查看 Gist</a></td></tr>
+        <tr><td><strong>封禁规则合集</strong></td><td>整理的X完整封禁规则，持续更新中</td><td><a href="https://gist.github.com/FocalorsOffice/2a1942a6bb1ecbec36d88e2ec9cd574f">🔗 查看 Gist</a></td></tr>
       </table>
     </td>
     <td width="40%" valign="top" align="center">
